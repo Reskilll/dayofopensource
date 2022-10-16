@@ -5,7 +5,7 @@ Hi, Thank you for being a part of Day of Open Source.
 
 # How to contribute
 
-**1.** Fork [this](https://github.com/Reskilll/dayofopensource) repository.
+**1.** Fork [this](https://github.com/Reskilll/dayofopensource) repository. <br>
 **2.** Create a new branch.
 
 **3.** In the folder of html, please copy the index.html file with your name.html and fill in the details accordingly.
