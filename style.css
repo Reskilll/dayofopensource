@@ -1,0 +1,108 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: rgb(158, 163, 163);
+}
+
+.container{
+    max-width: 1000px;
+    background-color: #e4f9f5;
+    margin:0 auto;
+    padding:20px;
+
+}
+.profileimg{
+    height:120px;
+    width:100px;
+    border:3px solid white;
+    border-radius: 100%;
+  float:left;
+   
+}
+.headertext{
+    float:left;
+    padding :15px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+.headercon{
+    float:right;
+    padding:30px;
+    
+}
+.headercon a{
+    
+    font-weight: bold;
+    text-decoration: none;
+    color:#11999e
+}
+.headercon a:hover{
+    text-decoration: underline;
+   background-color:yellow;
+    
+}
+.div-clear{
+    clear:both;
+}
+hr{
+    border:solid black 3px;
+    width:100%;
+    margin:10px auto;
+    border-bottom: none;
+    
+}
+#personal{
+
+
+}
+.content{
+
+margin-bottom: 30px;
+}
+.left{
+
+width:30%;
+float:left;
+
+}
+.right{
+    width:30%;
+    float:left;
+
+
+}
+.commonhr{
+    border:solid black 1px;
+    width:100%;
+    border-bottom: none;
+    margin:20px auto;
+}
+.left-temp{
+    float:left;
+    width:89%;
+}
+.right-temp{
+    
+   
+}
+.foot{
+    text-align:center;
+   
+    background-color: black;
+    padding:10px;
+}
+.foot:hover{
+    background-color: rgb(17, 69, 52);
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    background-color: yellow;
+}
+#cllg{
+    font-weight: bolder;
+}
