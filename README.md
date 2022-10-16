@@ -12,12 +12,12 @@ Hi, Thank you for being a part of Day of Open Source.
 
 Following are the required details
 
-i. Full Name
-ii. City
-iii. Designation
-iv. GitHub Link
-v. Twitter Link
-vi. Bio
+i. Full Name <br>
+ii. City <br>
+iii. Designation <br>
+iv. GitHub Link <br>
+v. Twitter Link <br>
+vi. Bio <br>
 
 **4.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
 
