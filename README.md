@@ -1,5 +1,5 @@
 
-# Oepn Source Day
+# Open Source Day
 
 Hi, Thank you for being a part of Day of Open Source. 
 
